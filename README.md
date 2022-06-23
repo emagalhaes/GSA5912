@@ -3,12 +3,12 @@ Disponibilização pública dos dados utilizados e produzidos durante a discipli
 
 Neste repositório encontra-se: 
 * [Link](https://data.geonadir.com/image-collection-details/1127) de acesso para download das fotografías aéras utilizadas
-* }[Link](https://sketchfab.com/3d-models/univille-2019-bceee4f3bab34456abd406f922ca8593)
+* [Link](https://sketchfab.com/3d-models/univille-2019-bceee4f3bab34456abd406f922ca8593) de acesso ao modelo tridimensional fotogramétrico produzido
 * Tabela com Planialtimetria dos Pontos de Controle
 * Ortomosaico
-* Paleta de cores utilizadas
 * JPEG do MDS, MDT, CHM, DHM e NVS
 * PDF do Relatório Final
 * PDF do Transecto
 * PDF da Estrutura do Manguezal 
 * PDF da área de Campos Salinos
+* Paleta de cores utilizadas
