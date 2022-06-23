@@ -3,6 +3,7 @@ Disponibilização pública dos dados utilizados e produzidos durante a discipli
 
 Neste repositório encontra-se: 
 * [Link](https://data.geonadir.com/image-collection-details/1127) de acesso para download das fotografías aéras utilizadas
+* }[Link](https://sketchfab.com/3d-models/univille-2019-bceee4f3bab34456abd406f922ca8593)
 * Tabela com Planialtimetria dos Pontos de Controle
 * Ortomosaico
 * Paleta de cores utilizadas
