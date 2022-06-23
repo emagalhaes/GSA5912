@@ -8,4 +8,6 @@ Neste repositório encontra-se:
 * Paleta de cores utilizadas
 * JPEG do MDS, MDT, CHM, DHM e NVS
 * PDF do Relatório Final
-* PDF do Transecto e Campos Salinos
+* PDF do Transecto
+* PDF da Estrutura do Manguezal 
+* PDF da área de Campos Salinos
